@@ -1,10 +1,10 @@
-# lab0-c
+  lab0-c
 Assessing Your C Programming Skills
 
 This lab will give you practice in the style of programming you will need to be able to do proficiently,
 especially for the later assignments in the class. The material covered should all be review for you. Some
 of the skills tested are:
-* Explicit memory management, as required in C.
+! Explicit memory management, as required in C.
 * Creating and manipulating pointer-based data structures.
 * Working with strings.
 * Enhancing the performance of key operations by storing redundant information in data structures.
@@ -194,3 +194,4 @@ External source code:
 * [linenoise](https://github.com/antirez/linenoise): BSD 2-Clause "Simplified" License
 * [tiny-web-server](https://github.com/7890/tiny-web-server): MIT License
 * [randombytes](https://github.com/dsprenkels/randombytes): MIT License
+ 
